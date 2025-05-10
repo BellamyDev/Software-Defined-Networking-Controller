@@ -1,4 +1,4 @@
-# Mini‑SDN CLI Controller
+# SDN CLI Controller
 
 A simple SDN controller with:
 
